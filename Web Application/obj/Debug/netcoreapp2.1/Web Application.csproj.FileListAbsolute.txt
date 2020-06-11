@@ -1,0 +1,64 @@
+C:\Users\Matome\source\repos\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.deps.json
+C:\Users\Matome\source\repos\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.runtimeconfig.json
+C:\Users\Matome\source\repos\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.runtimeconfig.dev.json
+C:\Users\Matome\source\repos\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.dll
+C:\Users\Matome\source\repos\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.pdb
+C:\Users\Matome\source\repos\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.Views.dll
+C:\Users\Matome\source\repos\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.Views.pdb
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.csprojAssemblyReference.cache
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.csproj.CoreCompileInputs.cache
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorAssemblyInfo.cache
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorAssemblyInfo.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.AssemblyInfoInputs.cache
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.AssemblyInfo.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.TagHelpers.input.cache
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.TagHelpers.output.cache
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorCoreGenerate.cache
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorTargetAssemblyInfo.cache
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorTargetAssemblyInfo.cs
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.Views.pdb
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.dll
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.pdb
+C:\Users\Matome\source\repos\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.csproj.CopyComplete
+F:\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.deps.json
+F:\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.runtimeconfig.json
+F:\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.runtimeconfig.dev.json
+F:\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.dll
+F:\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.pdb
+F:\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.Views.dll
+F:\School Management\Web Application\bin\Debug\netcoreapp2.1\Web Application.Views.pdb
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.csprojAssemblyReference.cache
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.csproj.CoreCompileInputs.cache
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorAssemblyInfo.cache
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorAssemblyInfo.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.AssemblyInfoInputs.cache
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.AssemblyInfo.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.TagHelpers.input.cache
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.TagHelpers.output.cache
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorCoreGenerate.cache
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorTargetAssemblyInfo.cache
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.RazorTargetAssemblyInfo.cs
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.Views.pdb
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.dll
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.pdb
+F:\School Management\Web Application\obj\Debug\netcoreapp2.1\Web Application.csproj.CopyComplete
